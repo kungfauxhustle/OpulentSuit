@@ -2,10 +2,6 @@
 
 An Opulent Suit for the "Great Great Asset To The Company (TM)"  
 
-![Front](OpulentFront.png)
-![Back](OpulentBack.png)
-![Right Leg](OpulentLegRight.png)
-![Left Leg](OpulentLegLeft.png)
 ![In Game](OpulentMetallic.png)
 
 ## Credits:
