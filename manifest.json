@@ -1,0 +1,10 @@
+{
+  "name": "OpulentSuit",
+  "version_number": "1.0.0",
+  "website_url": " ",
+  "description": "An Opulent Suit for the 'Great Great Asset To The Company(TM)'",
+  "dependencies": [
+	  "x753-More_Suits-1.3.0",
+	  "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
