@@ -6,7 +6,7 @@ An Opulent Suit for the "Great Great Asset To The Company (TM)"
 
 ## Credits:
 
-Created using Substance Painter 3D
+Created using Substance 3D Painter
 
 Base model and UV obtained from [danisspars on Sketchfab](https://skfb.ly/oO6UV)
 
