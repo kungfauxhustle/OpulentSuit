@@ -1,13 +1,14 @@
 ## Contents:
 
+Download from [Thunderstore](https://thunderstore.io/c/lethal-company/p/kungfauxhustle/OpulentSuit/)  
+This repository contains incomplete files for a future build.
+
 An Opulent Suit for the "Great Great Asset To The Company (TM)"  
 
-![In Game](OpulentMetallic.png)
+![In Game Screenshot](OpulentMetallic.png)
 
 ## Credits:
 
 Created using Substance 3D Painter
-
-Base model and UV obtained from [danisspars on Sketchfab](https://skfb.ly/oO6UV)
 
 PBR Materials sourced from [AmbientCG](https://ambientcg.com/)
