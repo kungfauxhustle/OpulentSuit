@@ -1,6 +1,7 @@
 ## Contents:
 
-Download from [Thunderstore](https://thunderstore.io/c/lethal-company/p/kungfauxhustle/OpulentSuit/)  
+Download From: [Thunderstore](https://thunderstore.io/c/lethal-company/p/kungfauxhustle/OpulentSuit/)  
+
 This repository contains incomplete files for a future build (1.0.1).
 
 An Opulent Suit for the "Great Great Asset To The Company (TM)"  
