@@ -1,7 +1,7 @@
 {
   "name": "OpulentSuit",
   "version_number": "1.0.1",
-  "website_url": "https://github.com/kungfauxhustle/OpulentSuitMod",
+  "website_url": "https://github.com/kungfauxhustle/OpulentSuit",
   "description": "An Opulent Suit for the 'Great Great Asset To The Company(TM)'",
   "dependencies": [
 	  "x753-More_Suits-1.4.1",
