@@ -10,4 +10,4 @@ Created using Substance 3D Painter
 
 Base model and UV obtained from [danisspars on Sketchfab](https://skfb.ly/oO6UV)
 
-PBR Materials sourced from [AmbientCG](www.ambientcg.com)
+PBR Materials sourced from [AmbientCG](https://ambientcg.com/)
