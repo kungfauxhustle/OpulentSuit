@@ -14,5 +14,5 @@ PBR Materials sourced from [AmbientCG](https://ambientcg.com/)
 
 ## Future Plans:
 
-Clean up UVs and add Height Map.
+Clean up UVs and add Height Map.  
 Add more suit color variations.
