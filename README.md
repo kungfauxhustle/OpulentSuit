@@ -14,4 +14,4 @@ PBR Materials sourced from [AmbientCG](https://ambientcg.com/)
 
 ## Future Plans:
 
-Create color assortment
+Add more suit color variations.
