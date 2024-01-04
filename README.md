@@ -11,3 +11,7 @@ An Opulent Suit for the "Great Great Asset To The Company (TM)"
 Created using Substance 3D Painter
 
 PBR Materials sourced from [AmbientCG](https://ambientcg.com/)
+
+## Future Plans:
+
+Create color assortment
