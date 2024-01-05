@@ -6,7 +6,9 @@ Package includes a set of Opulent Suits for the "Great Great Asset To The Compan
 
 ![Purple Amethyst Suit](OpulentMetallic.png)
 
-For more recolors check here! [CoffeesOpulentRecolors](https://thunderstore.io/c/lethal-company/p/Smartcoffee/CoffeesOpulentRecolors/)  
+For more recolors check here!  
+
+* [CoffeesOpulentRecolors](https://thunderstore.io/c/lethal-company/p/Smartcoffee/CoffeesOpulentRecolors/)  
 
 Anyone is free to use this as a base for recolors. Please let me know! I like seeing other people's work and I wanna put a link to you here!
 
