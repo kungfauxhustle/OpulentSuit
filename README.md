@@ -10,6 +10,10 @@ For more recolors check here! [CoffeesOpulentRecolors](https://thunderstore.io/c
 
 ![](OpulentMetallic.png)
 
+## Known Issues:
+
+* Color bleeding around the mask. Working to fix this.
+
 ## Credits:
 
 Created using Substance 3D Painter
