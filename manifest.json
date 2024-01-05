@@ -1,8 +1,8 @@
 {
   "name": "OpulentSuit",
-  "version_number": "1.0.0",
+  "version_number": "1.1.0",
   "website_url": "https://github.com/kungfauxhustle/OpulentSuit",
-  "description": "An Opulent Suit for the 'Great Great Asset To The Company(TM)'",
+  "description": "A set of Opulent Suits for the 'Great Great Asset To The Company(TM)' and co.",
   "dependencies": [
 	  "x753-More_Suits-1.4.1",
 	  "BepInEx-BepInExPack-5.4.2100"
