@@ -9,6 +9,7 @@
 
 ## 1.1.1
 
+* Renamed suits to reduce conflicts with recolors
 * Added "Known Issues"
 * Added links to other recolors (that I know of).
 * Fixed alt text appearing in README page.
