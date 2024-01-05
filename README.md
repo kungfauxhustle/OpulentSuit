@@ -8,7 +8,7 @@ Includes Red, Orange, Yellow, Green, Blue, Purple, Pink, Black, and White variat
 
 For more recolors check here! [CoffeesOpulentRecolors](https://thunderstore.io/c/lethal-company/p/Smartcoffee/CoffeesOpulentRecolors/)  
 
-![In Game Screenshot](OpulentMetallic.png)
+![](OpulentMetallic.png)
 
 ## Credits:
 
