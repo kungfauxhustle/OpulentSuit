@@ -48,8 +48,9 @@ Anyone is free to use this as a base for recolors. Please let me know! I like se
 ---
 
 ## Known Issues:  
-Feel free to post any issues on the github page.  
 
-* Color bleeding around the mask. Working to fix this.
+* Color bleeding around the mask. Working to fix this.  
+
+Feel free to post any issues on the github page.  
 
 ---
