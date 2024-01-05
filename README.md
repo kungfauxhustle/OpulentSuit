@@ -4,13 +4,13 @@ Package includes a set of Opulent Suits for the "Great Great Asset To The Compan
 
 * Includes Red, Orange, Yellow, Green, Blue, Purple, Pink, Black, and White variations.
 
-For more recolors check here! [CoffeesOpulentRecolors](https://thunderstore.io/c/lethal-company/p/Smartcoffee/CoffeesOpulentRecolors/)  
-
-Anyone is free to use this as a base for recolors. Please let me know! I wanna put you here!
-
 ![](OpulentMetallic.png)
 
-## Known Issues:
+For more recolors check here! [CoffeesOpulentRecolors](https://thunderstore.io/c/lethal-company/p/Smartcoffee/CoffeesOpulentRecolors/)  
+
+Anyone is free to use this as a base for recolors. Please let me know! I like seeing other people's work and I wanna put a link to you here!
+
+## Known Issues:  
 Feel free to post any issues on the github page.  
 
 * Color bleeding around the mask. Working to fix this.
