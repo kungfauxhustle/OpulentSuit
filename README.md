@@ -13,8 +13,3 @@ Created using Substance 3D Painter
 Base model and UV obtained from [danisspars on Sketchfab](https://sketchfab.com/3d-models/lethal-company-scavenger-model-game-rip-dbcd1bbe54e7485fb13d86b4b5cbaf6b)
 
 PBR Materials sourced from [AmbientCG](https://ambientcg.com/)
-
-## Future Plans:
-
-* Clean up UVs and add Height Map.  
-* Add more suit color variations.
