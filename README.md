@@ -4,7 +4,7 @@ Package includes a set of Opulent Suits for the "Great Great Asset To The Compan
 
 * Includes Red, Orange, Yellow, Green, Blue, Purple, Pink, Black, and White variations.
 
-![](OpulentMetallic.png)
+![Purple Amethyst Suit](OpulentMetallic.png)
 
 For more recolors check here! [CoffeesOpulentRecolors](https://thunderstore.io/c/lethal-company/p/Smartcoffee/CoffeesOpulentRecolors/)  
 
