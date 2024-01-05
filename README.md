@@ -1,7 +1,5 @@
 ## Contents:
 
-Download From: [Thunderstore](https://thunderstore.io/c/lethal-company/p/kungfauxhustle/OpulentSuit/)  
-
 Package includes a set of Opulent Suits for the "Great Great Asset To The Company (TM)" and co.  
 
 Includes Red, Orange, Yellow, Green, Blue, Purple, Pink, Black, and White variations.
