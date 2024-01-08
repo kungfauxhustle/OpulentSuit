@@ -58,6 +58,9 @@ Anyone is free to use this as a base for recolors. No need to ask permission. I 
 * Added preview image to readme
 * Changed description and various wording & formatting
 * Added Feedback & Contact section with contact info
+
+### 1.1.4
+* Fixing preview image
   
 ## Known Issues:  
 
