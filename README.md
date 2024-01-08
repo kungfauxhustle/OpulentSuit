@@ -13,6 +13,8 @@ Package Includes:
 * Onyx Black
 * White Diamond
 
+*All sales are final. No refunds permitted. The Company (TM) is not responsible for any injuries or deaths caused by any radioactive, carcinogenic, or heavy metal (lead) materials that may or may not have been used in the creation of the "Opulent Suit" clothing line. For any complaints, please visit The Company (TM) building on Gordion and ring the bell until an associate can help you.*
+
 ## Preview:
 
 ![Purple Amethyst Suit](https://github.com/kungfauxhustle/OpulentSuit/blob/main/preview.png)
