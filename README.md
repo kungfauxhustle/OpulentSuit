@@ -52,14 +52,14 @@ Anyone is free to use this as a base for recolors. No need to ask permission. I 
 ### 1.1.2
 * Purple Amethyst and Pink Garnet should properly display now.
 
-### 1.1.2
-* Added preview image to readme
+### 1.1.3
+* Added preview image & section to readme
 * Changed description and various wording & formatting
 * Added Feedback & Contact section with contact info
   
 ## Known Issues:  
 
-* Color bleeding around the mask. Working to fix this.  
+* Texture aliasing around the mask. Working to fix this.  
 
 ## Feedback & Contact:
 
