@@ -1,6 +1,6 @@
 # Opulent Suits
 
-![Purple Amethyst Suit](https://github.com/kungfauxhustle/OpulentSuit/blob/main/preview.png)
+![Purple Amethist Suit](https://github.com/kungfauxhustle/OpulentSuit/blob/363d12cd7979d72aa2db3bcad533c24887818759/preview.png)
 
 ## Contents:
 
