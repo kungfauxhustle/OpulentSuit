@@ -65,5 +65,5 @@ Anyone is free to use this as a base for recolors. No need to ask permission. I 
 
 ## Feedback & Contact:
 
-* Please post any issues on the [github page](https://github.com/kungfauxhustle/OpulentSuit).
+* Please post any issues on the [GitHub page](https://github.com/kungfauxhustle/OpulentSuit/issues).
 * I can be contacted on Discord, Username: kungfauxhustle
