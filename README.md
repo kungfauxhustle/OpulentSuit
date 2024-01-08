@@ -1,3 +1,7 @@
+# Opulent Suits
+
+![Purple Amethyst Suit](https://github.com/kungfauxhustle/OpulentSuit/blob/main/preview.png)
+
 ## Contents:
 
 Enclosed are a set of Opulent Suits for the "Great Great Asset To The Company (TM)" and co.  
@@ -14,10 +18,6 @@ Package Includes:
 * White Diamond
 
 *All sales are final. No refunds permitted. Authenticity of any rare minerals used in any "Opulent Suit" is not guaranteed. The Company (TM) is not responsible for any injuries or deaths caused by any radioactive, carcinogenic, or heavy metal (lead) materials that may or may not have been used in the creation of the "Opulent Suit" clothing line. For any complaints, please visit The Company (TM) building on Gordion and ring the bell until an associate arrives to assist you.*
-
-## Preview:
-
-![Purple Amethyst Suit](https://github.com/kungfauxhustle/OpulentSuit/blob/main/preview.png)
 
 ## Links:
 
@@ -55,7 +55,7 @@ Anyone is free to use this as a base for recolors. No need to ask permission. I 
 * Purple Amethyst and Pink Garnet should properly display now.
 
 ### 1.1.3
-* Added preview image & section to readme
+* Added preview image to readme
 * Changed description and various wording & formatting
 * Added Feedback & Contact section with contact info
   
