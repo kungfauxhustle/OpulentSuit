@@ -1,8 +1,18 @@
 ## Contents:
 
-Package includes a set of Opulent Suits for the "Great Great Asset To The Company (TM)" and co.  
+Enclosed are a set of Opulent Suits for the "Great Great Asset To The Company (TM)" and co.  
 
-* Includes Red, Orange, Yellow, Green, Blue, Purple, Pink, Black, and White variations.
+Package Includes:
+* Ruby Red
+* Orange Citrine
+* Heliodor Yellow
+* Emerald Green 
+* Blue Sapphire
+* Purple Amethyst
+* Pink Garnet
+* Onyx Black
+* White Diamond
+  
 
 ![Purple Amethyst Suit](OpulentMetallic.png)
 
