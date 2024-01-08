@@ -12,9 +12,10 @@ Package Includes:
 * Pink Garnet
 * Onyx Black
 * White Diamond
-  
 
-![Purple Amethyst Suit](OpulentMetallic.png)
+## Preview:
+
+![Purple Amethyst Suit](https://github.com/kungfauxhustle/OpulentSuit/blob/main/preview.png)
 
 ## Links:
 
@@ -46,12 +47,21 @@ Anyone is free to use this as a base for recolors. No need to ask permission. I 
 * Added "Known Issues"
 * Added links to other recolors (that I know of).
 * Fixed alt text appearing in README page.
+* Merged changelog into README
 
 ### 1.1.2
 * Purple Amethyst and Pink Garnet should properly display now.
+
+### 1.1.2
+* Added preview image to readme
+* Changed description and various wording & formatting
+* Added Feedback & Contact section with contact info
   
 ## Known Issues:  
 
 * Color bleeding around the mask. Working to fix this.  
 
-Feel free to post any issues on the github page.  
+## Feedback & Contact:
+
+* Please post any issues on the [github page](https://github.com/kungfauxhustle/OpulentSuit).
+* I can be contacted on Discord, Username: kungfauxhustle
