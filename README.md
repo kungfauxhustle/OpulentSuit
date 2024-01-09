@@ -66,6 +66,7 @@ Anyone is free to use this as a base for recolors. No need to ask permission. I 
 1.1.5
  - Cleaned out extraneous code in JSON files. It should no longer spam the debug window with missing
    file warnings.
+ - Deleted preview image. Swapped to Imgur to host markdown images.
  - Various README formatting.
  - Known Issues updated.
 ```  
