@@ -63,7 +63,8 @@ Anyone is free to use this as a base for recolors. No need to ask permission. I 
  - Fixed preview image.
 
 1.1.5
- - Cleaned out extraneous code in JSON files. It should no longer spam the debug window with missing file warnings.
+ - Cleaned out extraneous code in JSON files. It should no longer spam the debug window with missing file
+   warnings.
  - Various README formatting.
  - Known Issues updated.
 ```  
