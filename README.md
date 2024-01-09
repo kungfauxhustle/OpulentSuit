@@ -71,7 +71,7 @@ Anyone is free to use this as a base for recolors. No need to ask permission. I 
  - Known Issues updated.
 
 1.1.6
- - Fixed preview image.... again....
+ - Fixed preview image.... again.... One day I will learn to use the Markdown Preview tool.
 ```  
 ## Known Issues:  
 
