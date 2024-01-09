@@ -72,6 +72,9 @@ Anyone is free to use this as a base for recolors. No need to ask permission. I 
 
 1.1.6
  - Fixed preview image.... again.... One day I will learn to use the Markdown Preview tool.
+
+1.17
+ - Uploaded the wrong file. I give up.
 ```  
 ## Known Issues:  
 
