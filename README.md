@@ -1,6 +1,6 @@
 # Opulent Suits
 
-![Purple Amethist Suit](https://github.com/kungfauxhustle/OpulentSuit/blob/363d12cd7979d72aa2db3bcad533c24887818759/preview.png)
+![Purple Amethist Suit](https://i.imgur.com/2PGlfeD.png)
 
 ## Contents:
 
@@ -69,6 +69,10 @@ Anyone is free to use this as a base for recolors. No need to ask permission. I 
  - Deleted preview image. Swapped to Imgur to host markdown images.
  - Various README formatting.
  - Known Issues updated.
+
+1.1.6
+ - Fixed preview image.... again....
+
 ```  
 ## Known Issues:  
 
