@@ -72,7 +72,6 @@ Anyone is free to use this as a base for recolors. No need to ask permission. I 
 
 1.1.6
  - Fixed preview image.... again....
-
 ```  
 ## Known Issues:  
 
