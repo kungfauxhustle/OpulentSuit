@@ -36,35 +36,40 @@ Anyone is free to use this as a base for recolors. No need to ask permission. I 
 * Materials: [AmbientCG](https://ambientcg.com/)
 
 ## Changelog
+```
+1.0.0
+ - Release.
 
-### 1.0.0
-* Release
+1.1.0
+ - Cleaned up seams in the texture maps (as much as feasably possible).
+ - Added Red, Orange, Yellow, Green, Blue, Pink, Black, and White suit variations for a total of 9 colors!
 
-### 1.1.0
-* Cleaned up seams in the texture maps (as much as feasably possible)
-* Added Red, Orange, Yellow, Green, Blue, Pink, Black, and White suit variations for a total of 9 colors!
+1.1.1
+ - Renamed suits to reduce conflicts with recolors.
+ - Added "Known Issues".
+ - Added links to other recolors (that I know of).
+ - Fixed alt text appearing in README page.
+ - Merged changelog into README.
 
-### 1.1.1
-* Renamed suits to reduce conflicts with recolors
-* Added "Known Issues"
-* Added links to other recolors (that I know of).
-* Fixed alt text appearing in README page.
-* Merged changelog into README
+1.1.2
+ - Purple Amethyst and Pink Garnet should properly display now.
 
-### 1.1.2
-* Purple Amethyst and Pink Garnet should properly display now.
+1.1.3
+ - Added preview image to readme.
+ - Changed description and various wording & formatting.
+ - Added Feedback & Contact section with contact info.
 
-### 1.1.3
-* Added preview image to readme
-* Changed description and various wording & formatting
-* Added Feedback & Contact section with contact info
+1.1.4
+ - Fixed preview image.
 
-### 1.1.4
-* Fixing preview image
-  
+1.1.5
+ - Cleaned out extraneous code in JSON files. It should no longer spam the debug window with missing file warnings.
+ - Various README formatting.
+ - Known Issues updated.
+```  
 ## Known Issues:  
 
-* Texture aliasing around the mask. Working to fix this.  
+* Texture aliasing around the mask. This may be unavoidable due to the UV layout so I'm looking into redesigning it or using a custom model with better UVs. 
 
 ## Feedback & Contact:
 
